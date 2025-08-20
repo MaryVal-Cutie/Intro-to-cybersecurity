@@ -12,8 +12,8 @@
 
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
-
-...
+A benefit of being on working cybersecurity as a job got paid a lot
+The importance of cybersecurity is people being safe 
 
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary
@@ -22,5 +22,4 @@
 
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
-
-...
+Cybersecurity- is about protecting you from digital attacks and accidents. Cybersecurity proffesionals are the digital versions of police, firefighter, investigator and etc.
