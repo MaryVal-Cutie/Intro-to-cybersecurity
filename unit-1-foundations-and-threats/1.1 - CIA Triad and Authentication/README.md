@@ -1,0 +1,29 @@
+Key Vocabulary:
+- Cybersecurity
+- Hybrid Attack
+- CIA Triad
+- Password Spraying
+- Confidentiality
+- Credentials
+- Integrity
+- Credential Stuffing
+- Availability
+- Identify Proofing
+- Authentication
+- Passphrases
+- Access Control
+- Hashing
+- Accounting
+- Rainbow Tables
+- Password
+- Hash collision
+- Single Sign-On (SSO)
+- Birthday Attack
+- Breach
+- Smart Cards
+- Database
+- Certificate
+- Dictionary Attack
+- Algorithm
+- Brute force attack
+- Biometrics

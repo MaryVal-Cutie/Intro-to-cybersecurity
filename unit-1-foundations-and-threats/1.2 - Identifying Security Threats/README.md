@@ -1,0 +1,20 @@
+Key Vocabulary:
+- Malware
+- Zero Day
+- Virus
+- Vulnerability Window
+- Worm
+- APT - Advanced Persistent Threat
+- Replicates
+- Exfiltrate
+- Trojan
+- Ransomware
+- RAT - Remote Access Trojan
+- Spyware
+- Backdoor
+- Adware
+- BOTNET
+- PUP / PUA
+- Logic Bomb
+- SPAM
+- Rootkit

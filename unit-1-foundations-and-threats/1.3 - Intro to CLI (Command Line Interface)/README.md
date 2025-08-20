@@ -1,0 +1,14 @@
+Key Vocabulary:
+- Virtualization
+- Graphical User Interfaces
+- Hypervisor
+- Linux
+- Host
+- Specialized operating system
+- Host OS
+- Terminal
+- Virtual Machine
+- Prompt
+- Virtualization software
+- Path
+- Command Line
