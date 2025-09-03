@@ -11,7 +11,7 @@ assigned goal.
 
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
-
+To use a certificate, the server owner must provide a 3rd party authority with documentation.
 ...
 
 ### Application / Personal Research / Summary
@@ -21,5 +21,11 @@ assigned goal.
 
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
+Card, Smart cards- embedded with a chip that is automatically recognized by an authenticating device.
 
-...
+Certificates- servers use thse to authenticate remotely such as with a browser. 
+
+Biometrics- uses a measurable physical characteristic to verify identity but can be expensive to implement.
+
+Multi Factor Authentication- what you have and know, uses more than one method of authentication to increase security
+
