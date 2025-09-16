@@ -6,15 +6,22 @@
 
 ## Guiding Question(s):
 - How can databases be used in password guessing attacks?
+  Hackers can use lists of stolen passwords from old hacks to try and guess people’s passwords. If someone reused a password, the hacker can get into their account easily. Lastly i wanna say That’s why it’s important to use strong, unique passwords and turn on extra protection like two-step verification.
+
 
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
 
-...
+Advantage from Password Spraying it avoids lockouts that are invoked after 2-3 incorrect password attempt.
+
+Attacks assumes most people reuse their passwords and depends on using breached credentials.
+
+Reports shows that 52 percent of people have a favorite password.
 
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary
 
+Authentication is all about proving who you are online. It makes sure that only the right people can access accounts, apps, or devices. Common ways to do this include passwords, PINs, fingerprints, or face recognition. For me, I use passwords and sometimes face ID on my phone to keep my apps and school accounts safe. In the real world, authentication protects important things like bank accounts, social media, and even school systems from hackers.
 ...
 
 ### Vocabulary
@@ -34,4 +41,5 @@ Advantage- it avoids lockouts that are involved after 2-3 incorrect password att
 Credentials- username + password pair used for authentication
 
 Credential Stuffing- trying username/password from a breach in order to gain access to user accounts.
-Breach- 
+
+Breach- when a database is exposed or stolen can be accidental or through insufficient security or from a malicious actor attack.

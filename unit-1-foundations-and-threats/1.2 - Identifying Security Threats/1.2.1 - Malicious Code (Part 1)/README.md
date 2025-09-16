@@ -8,6 +8,8 @@ security threat.
 ## Guiding Question(s):
 - How does malicious software impact computer systems?
 
+Malicious software, or malware, is like a “sick bug” for your computer. It can steal your passwords, delete files, slow down your device, or even let hackers take control.
+
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
 Malware- malfunction, bad, put on computer.
@@ -23,12 +25,12 @@ Backdoor- leave a port open and create a bogus user with privileges.
 
 Examples of malicious backdoors Netbus, BackOofice, SubSeven and T0rnkit . Examples of legitimate backdoors- VNC, PC and Anywhere. 
 
-Trojans and other malware are used to deliver a backdoor program  onto your compute
+Trojans and other malware are used to deliver a backdoor program  onto your computer.
 
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary
 
-...
+Malicious code, or malware, is software designed to harm computers, steal information, or take control without permission. It includes viruses, worms, trojans, and ransomware. Malware can delete files, slow down systems, steal passwords, or let hackers control devices. Lastly its bad for the computer systems and people should have strong passwords to avoid a malware.
 
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
@@ -42,3 +44,4 @@ RAT- Remote Access Trojan- Trojan that installs a backdoor for administrative co
 
 Backdoor- programs that create a mechanism for gaining access to a computer.
 
+Bonets- A botnet is a network of computers or devices that have been hacked and controlled by a hacker without the owners knowing.

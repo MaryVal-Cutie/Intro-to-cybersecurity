@@ -38,7 +38,7 @@ Using special software, the attacker logs in the username and password hash inst
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
 
-Single Sign On- one authentication gives access to many servers or resources 
+Single Sign On- one authentication gives access to many servers or resources. 
 
 Passphrases- a string of words provides more protection than a strong password but users are resistant to typing and it is not mobile device friendly.
 
