@@ -10,24 +10,30 @@ their device.
 - How does understanding how to use a command line interface (CLI) allow
 you to continue the use of your device in the event of an issue affecting normal operations?
 
+Understanding how to use a command line interface (CLI) helps  me  keep using your device even if the normal screen or apps don’t work. With CLI, I can type commands to move files, fix errors, or start programs without needing the usual menus. It’s like having a backup way to control your computer when the regular buttons or mouse won’t respond.
+
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
-  About Sandboxing- optimizes use of expensive hardwares  such as servers. 
+  
+  About Sandboxing- optimizes use of expensive hardwares  such as servers.  Protability or 
+easy restoration of Virtual Machines.
 
 About  Virtualization software machines examples: VMWare Workstation ( windows)  Microsoft Microsoft HyperV, VMWare Fusin (Mac) and oracle  Virtual Box. 
 
 A virtual machine is just like a physical PC in that is has dedicated resources  like Memory (RAM), Ethernet Connection (NIC) and Storage  (Hard  Disks )
 
-Optimally the host OS will have 8GB of RAM minimum and each Win guest 4GB min or Linux guest 2GB min.
+Info about Virtualization- optimally the host OS will have 8GB of RAM minimum and each Win guest 4GB min or Linux guest 2GB min.
 
 Community colleges and regional cyber ranges across the US provide online access to virtual machines and labs. These VMs are usually connected into virtual  Local Area Networks (LAN) like the one in this image.
+
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary
 
-...
+This lesson taught me how to respond to dangerous situations on a computer, also it helps me to be prepared when something happened bad at my computer in real situations like malware or strange files, by creating an action plan. Using tools like the command line helps fix problems and recover data when normal operations fail . Lastly it helps  me to use virtual machines in a correct way and important commands to remember.
 
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
+ 
  Virtualization- is technology used to allow a computer to have more than one Operating System (OS) present and operating at the same time on a single piece of hardware.  
 
  Hypervisor- is an iterface between a virtual machine ( VM )  and the host machine hardware. Hypervidors are the layer that enables virtualization.
