@@ -6,7 +6,10 @@
 
 ## Guiding Question(s):
 - How do authentication and strong passwords help secure data?
-   Authentication and strong passwords help secure data by making it for hackers to identify your passwords and seeing your personal informations. Also it will help us be safe online without worrying of information being taken.
+   
+   Authentication and strong passwords help secure data by making it for hackers to identify your passwords and seeing your personal informations. Also it will help us be 
+   safe online without worrying of information being taken.
+   
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
 

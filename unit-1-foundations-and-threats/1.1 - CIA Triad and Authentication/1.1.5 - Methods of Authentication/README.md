@@ -21,6 +21,17 @@ One Time Password (OTP)
 
 Biometrics examples: Fingerprint, Retina Scan, Voice and Typing Speed. 
 
+Options for biometric authentication- Green:best, Red:best
+
+Stopping Password attacks 
+
+#1Strong Passwords- it won't be dictionary and it takes too long to crack.
+
+#2 Lockout after several unsuccessful login attempts useful to stop all guessing methods.
+
+#3 Use MultiFactor or Two-Factor Authentication 
+Ex: password + PIN to phone.
+
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary
 

@@ -11,6 +11,7 @@ Passwords aren’t stored as they are; the system turns them into a long, jumble
 
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
+
 Windows machine- SAM registry hive holds all account details like usernames and passwords.
 
 Passwords should never be stored in plain text.
@@ -21,7 +22,7 @@ Linux: store usernames, passwords and some settings
 
 etc/shadow- hidden file used to store usernames, passwords and some settings remember only root usershave access.
 
-The actual hashing algorithms are much more complex and do more than just performing arithmetic operations on relatively small numbers.
+The actual hashing algorithms are much more complex and do more than just performing arithmetic operations on relatively small numbers.The data that was hashed, even if you know the algorithm used to generate the hash.
 
 SALT- method of protecting against Rainbow Table Attacks.
 
@@ -29,11 +30,18 @@ Pass the hash attack- this attack does not try to crack the password instead att
 
 Using special software, the attacker logs in the username and password hash instead of the text password.
 
+Normal password storage: md5 x (password )= hash random numbers and letters.
+
+Salted password storage: md5 x ('randomstring + password)= random numbers and letters.
+
+To pass the hash attack- this attack does not try to crack the password. Instead, the attacker gets the SAM hive or etc/shadow file to dump the hashes from system storage.
+Using special software, the attacker logs in with the username and password hash instead of the text password.
+
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary
    
       Based on what I learned about this lesson was about hashing and how hackers try to guess your password by hashing. Also it is basically In this lesson, I learned about passwords, password hashing, and how systems keep data safe. Passwords aren’t stored as they are  instead, they are turned into scrambled codes using hashing so that even if someone steals the data which are the hackers , they cannot see the real password. This lesson is really important for me because I use passwords for my email, social media, and school accounts every day. In the real world, password hashing helps protect people from hackers, keeps personal information safe, and makes the internet a more secure place for everyone. In addition I wanna add that learning how to keep password safe is really important in real life so when it comes to virtual world like connecting with our phones and technologies we are safe and secured all the time.
-...
+
 
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
@@ -46,8 +54,10 @@ Hashing- a special mathemathical function that performs one-way conversion. Also
 
 Hash collision- when two or more source data convert to the same hash value
 
-Birthday Attack- in a group of 22 people the chance that two people share a birthday is greater than 50%.
+Birthday Attack- in a group of 22 people the chance that two people share a birthday is greater than 50%.. It takes advantage  when collecting large number of hashe, there will be multiple data items (like passwords) that have the same hash value. With a hash collision "collection of data", you could reverse engineer the key used for hashing.
 
 Rainbow Tables- definition a file of pre-computed hash values for every possible combination of characters. VERY BIG FILE!!!
+
+
 
 

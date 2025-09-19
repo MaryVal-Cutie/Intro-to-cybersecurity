@@ -35,15 +35,15 @@ Loss of Confidentiality- stolen data that was made public. NSA leaks of governme
 
 Loss of Integrity- data was corrupted. STUXNET worm- changed the code on the centrifuge machines in an Iranian nuclear.
 
-Loss of Availability- data is inaccessible, a common reason is a DDos attack= Distributed Denial of Service.
+Loss of Availability- data is inaccessible, a common reason is a DDos attack= Distributed Denial of Service. Hackers infected more than 145,000 internet- attached devices like camera and ordered them to flood Krebs website with traffic.
 
 Response- When something wrong is detected what you can do to fix the problem. 
 
-Confidentiality- Data is not revealed 
+Confidentiality- Data is not revealed Example: Were going to release the game on the 17th. Oh they are releasing on the 17th let me tell the newspaper.
 
-Integrity- Data is intact- not modified or corrupted 
+Integrity- Data is intact- not modified or corrupted Example: Were going to release the game on the 17th, let me change that to the 21st, were going to release the game on the 17th.
 
-Availability- Data is accesible for other users. 
+Availability- Data is accesible for other users. Example: were going to release the game on the 17th. Other person ....xxxx.
 
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary

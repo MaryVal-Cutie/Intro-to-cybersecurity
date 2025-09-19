@@ -40,6 +40,6 @@ Advantage- it avoids lockouts that are involved after 2-3 incorrect password att
 
 Credentials- username + password pair used for authentication
 
-Credential Stuffing- trying username/password from a breach in order to gain access to user accounts.
+Credential Stuffing- trying username/password from a breach in order to gain access to user accounts. Also it steals the user account database from BigStore.com then it automates trying those credentials to log into accounts at MovieNite.com and other more online sites.
 
 Breach- when a database is exposed or stolen can be accidental or through insufficient security or from a malicious actor attack.
